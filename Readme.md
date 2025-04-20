@@ -26,23 +26,23 @@ scikit-learin
 ## 4. Visualization of feature analysis
 ### 4.1 Missing Values
 Here is the visualization of null value precentage of features.
-![](.\imgs\missing_values.png)
+![](./imgs/missing_values.png)
 ### 4.2 Distribution of some festures
-![](.\imgs\feature_00_distribution.png)
-![](.\imgs\feature_10_distribution.png)
-![](.\imgs\feature_20_distribution.png)
+![](./imgs/feature_00_distribution.png)
+![](./imgs/feature_10_distribution.png)
+![](./imgs/feature_20_distribution.png)
 ### 4.3 Distribution of responders
-![](.\imgs\responder_2_distribution.png)
-![](.\imgs\responder_6_distribution.png)
-![](.\imgs\responder_8_distribution.png)
+![](./imgs/responder_2_distribution.png)
+![](./imgs/responder_6_distribution.png)
+![](./imgs/responder_8_distribution.png)
 ### 4.4 Data anslysis in time series
-![](.\imgs\responder_6_rolling_mean.png)
+![](./imgs/responder_6_rolling_mean.png)
 ### 4.5 Feature correlation
-![](.\imgs\all_feature_correlation_heatmap.png)
-![](.\imgs\feature_correlation_heatmap.png)
-![](.\imgs\feature_correlation_heatmap_2.png)
+![](./imgs/all_feature_correlation_heatmap.png)
+![](./imgs/feature_correlation_heatmap.png)
+![](./imgs/feature_correlation_heatmap_2.png)
 ## 5. Training Loss and Valization Loss
-![](.\imgs\training_metrics_evolution.png)
+![](./imgs/training_metrics_evolution.png)
 ## 6. Prediction
 ```
 Xgboost R2 score: 0.011455476967631495
